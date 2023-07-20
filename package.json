@@ -11,7 +11,7 @@
     "tailwind": "^4.0.0",
     "vue": "^3.2.25",
     "vue-notification-bell": "^0.9.12",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.2.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.2.0",
